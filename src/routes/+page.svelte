@@ -12,18 +12,11 @@
 
 	const experience = [
 		{
-			title: 'Team Manager – CXP Portfolio (Strategic Investments)',
+			title: 'Software Development Manager – CXP Portfolio (Strategic Investments)',
 			company: 'Expeditors',
 			duration: 'Aug 2025 – Present',
 			location: 'Greater Seattle Area',
 			description: 'Lead the Risk Management Development team, driving delivery of the modern Claims and ECIB Insurance platform.'
-		},
-		{
-			title: 'Software Development Manager',
-			company: 'Expeditors',
-			duration: 'Aug 2025 – Present',
-			location: 'Greater Seattle Area',
-			description: ''
 		},
 		{
 			title: 'Senior Developer',
