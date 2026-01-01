@@ -2,9 +2,9 @@
 	// Portfolio data
 	const profile = {
 		name: 'Jesse Ruth',
-		title: 'Software Developer',
+		title: 'Software Developement Manager',
 		email: 'jesse@jesseruth.com',
-		linkedin: 'https://linkedin.com/in/jesseruth',
+		linkedin: 'https://www.linkedin.com/in/jesseruthseattle',
 		github: 'https://github.com/jesseruth'
 	};
 
